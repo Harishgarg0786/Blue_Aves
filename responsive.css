@@ -1,0 +1,13 @@
+@media (max-width: 1000px) {
+    .container-1_1{
+        width: 60%;
+    }
+
+    .container-1_2{
+        width: 40%;
+    }
+}
+
+@media (max-width: 890px) {
+    
+}
